@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MySample.iml" filepath="$PROJECT_DIR$/MySample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcastreceivertest/broadcastreceivertest.iml" filepath="$PROJECT_DIR$/broadcastreceivertest/broadcastreceivertest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentprovidertest/contentprovidertest.iml" filepath="$PROJECT_DIR$/contentprovidertest/contentprovidertest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daggertest/daggertest.iml" filepath="$PROJECT_DIR$/daggertest/daggertest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawabletest/drawabletest.iml" filepath="$PROJECT_DIR$/drawabletest/drawabletest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmenttabtest/fragmenttabtest.iml" filepath="$PROJECT_DIR$/fragmenttabtest/fragmenttabtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glidestudy/glidestudy.iml" filepath="$PROJECT_DIR$/glidestudy/glidestudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remoteserviceclient/remoteserviceclient.iml" filepath="$PROJECT_DIR$/remoteserviceclient/remoteserviceclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjavatest/rxjavatest.iml" filepath="$PROJECT_DIR$/rxjavatest/rxjavatest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicetest/servicetest.iml" filepath="$PROJECT_DIR$/servicetest/servicetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spannablestringtest/spannablestringtest.iml" filepath="$PROJECT_DIR$/spannablestringtest/spannablestringtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stylethemetest/stylethemetest.iml" filepath="$PROJECT_DIR$/stylethemetest/stylethemetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadtest/threadtest.iml" filepath="$PROJECT_DIR$/threadtest/threadtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userinterationtest/userinterationtest.iml" filepath="$PROJECT_DIR$/userinterationtest/userinterationtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/widget/widget.iml" filepath="$PROJECT_DIR$/widget/widget.iml" />
+    </modules>
+  </component>
+</project>

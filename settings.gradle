@@ -1,0 +1,1 @@
+include ':app', ':rxjavatest', ':daggertest', ':library', ':widget', ':drawabletest', ':glidestudy', ':lib', ':contentprovidertest', ':broadcastreceivertest', ':userinterationtest', ':stylethemetest', ':servicetest', ':remoteserviceclient', ':fragmenttabtest', ':threadtest', ':spannablestringtest'

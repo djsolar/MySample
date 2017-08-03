@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/broadcastreceivertest" />
+            <option value="$PROJECT_DIR$/contentprovidertest" />
+            <option value="$PROJECT_DIR$/daggertest" />
+            <option value="$PROJECT_DIR$/drawabletest" />
+            <option value="$PROJECT_DIR$/fragmenttabtest" />
+            <option value="$PROJECT_DIR$/glidestudy" />
+            <option value="$PROJECT_DIR$/lib" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/remoteserviceclient" />
+            <option value="$PROJECT_DIR$/rxjavatest" />
+            <option value="$PROJECT_DIR$/servicetest" />
+            <option value="$PROJECT_DIR$/spannablestringtest" />
+            <option value="$PROJECT_DIR$/stylethemetest" />
+            <option value="$PROJECT_DIR$/threadtest" />
+            <option value="$PROJECT_DIR$/userinterationtest" />
+            <option value="$PROJECT_DIR$/widget" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

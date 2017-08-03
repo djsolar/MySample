@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="140dp"
+    android:layout_height="140dp"
+    tools:context="com.example.drawabletest.CdActivity"
+    android:background="@drawable/back">
+
+    <ImageView
+        android:id="@+id/cd"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/rotate_cd"
+        android:scaleType="fitXY"/>
+
+    <ImageView
+        android:id="@+id/handler"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/rotate_handler"
+        android:scaleType="fitXY"/>
+</FrameLayout>

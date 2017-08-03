@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MessageState">
+        <attr name="state_message_readed" format="boolean"/>
+    </declare-styleable>
+
+    <attr name="type">
+        <enum name="circle" value="0"/>
+        <enum name="round" value="1"/>
+    </attr>
+    
+    <attr name="borderRadius" format="dimension"/>
+
+    <attr name="src" format="reference"/>
+    
+    <declare-styleable name="RoundImageView">
+        <attr name="borderRadius"/>
+        <attr name="type"/>
+    </declare-styleable>
+
+    <declare-styleable name="CustomView">
+        <attr name="borderRadius"/>
+        <attr name="type"/>
+        <attr name="src"/>
+    </declare-styleable>
+</resources>

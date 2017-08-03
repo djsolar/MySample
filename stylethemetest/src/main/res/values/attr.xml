@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="cancelTextColor" format="reference"/>
+    <attr name="submitBtnBgColor" format="reference"/>
+    
+    <style name="OrangeTheme">
+        <item name="cancelTextColor">@color/colorAccent</item>
+        <item name="submitBtnBgColor">@color/colorAccent</item>
+        <item name="colorControlActivated">@color/colorAccent</item>
+    </style>
+
+    <style name="BlueTheme">
+        <item name="cancelTextColor">@color/colorPrimary</item>
+        <item name="submitBtnBgColor">@color/colorPrimary</item>
+        <item name="colorControlActivated">@color/colorPrimary</item>
+    </style>
+</resources>
