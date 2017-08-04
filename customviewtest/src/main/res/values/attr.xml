@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="label_text" format="string"/>
+    <attr name="label_size" format="dimension"/>
+    <attr name="label_color" format="color"/>
+
+    <declare-styleable name="LabelTextView">
+        <attr name="label_text"/>
+        <attr name="label_size"/>
+        <attr name="label_color"/>
+    </declare-styleable>
+</resources>
